@@ -1,2 +1,2 @@
 # FreeRTOS-SiliconValley-Projects
-尚硅谷FreeRTOS从入门到起飞
+用stm32f103c8t6代替stm32f103vet6跑尚硅谷FreeRTOS例程
